@@ -1,4 +1,4 @@
-package first_lib
+package logger
 
 import (
 	"bufio"
